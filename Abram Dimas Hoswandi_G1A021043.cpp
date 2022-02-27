@@ -25,8 +25,8 @@ int main(){
     
     cout <<endl;
     cout <<"=============================="<<endl;
-    cout <<"Keluarannya Adalah"<<endl; 
-	cout <<"=============================="<<endl;
+    cout <<"Keluarannya Adalah: "<<endl; 
+    cout <<"=============================="<<endl;
     cout << "nilai a Adalah = " << a <<endl;
     cout << "nilai b Adalah = " << b <<endl;
     cout << "nilai c Adalah = " << c <<endl;
